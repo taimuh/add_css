@@ -1,1 +1,1 @@
-"# add_css" 
+Next.jsでtailwind.cssを利用するプロジェクトのテスト用リポジトリ
